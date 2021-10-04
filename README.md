@@ -1,4 +1,4 @@
-## Hi, i'm Gabriel Patrick!
+## Hello world, I'm Gabriel Patrick!
 
 <div align="center">
   <a href="https://github.com/gabrielpatricksouza">
